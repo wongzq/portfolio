@@ -10386,6 +10386,8 @@ header.masthead h1 {
 
 .btn-resume:focus,
 .btn-resume:active {
+  background: var(--secondary);
+  color: var(--white);
   box-shadow: none;
 }
 
