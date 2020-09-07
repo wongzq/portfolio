@@ -10348,11 +10348,12 @@ header.masthead h1 {
 
 .link-icon-container:hover {
   text-decoration: none;
-  color: #fff;
+  color: var(--orange);
+  text-shadow: 0 0 10px #000, 0 0 30px #000, 0 0 50px #fff;
 }
 
 .link-icon-container:hover .link-icon {
-  color: #fff;
+  color: var(--orange);
 }
 
 .column {
@@ -10369,9 +10370,11 @@ header.masthead h1 {
 }
 
 .btn-resume {
+  border:none;
   margin: 2rem 0;
   background: var(--secondary);
-  color: var(--white)
+  color: var(--white);
+  letter-spacing: 0.2rem;
 }
 
 .btn-resume:hover {
@@ -10392,4 +10395,10 @@ header.masthead h1 {
 .project-links {
   margin-top: 0.5rem;
   display: flex;
+}
+
+.text-name {
+  color: var(--orange);
+  letter-spacing: 0.2rem;
+  text-shadow: 0 0 10px #000d, 0 0 30px #444b, 0 0 50px #8889, 0 0 70px #bbb8, 0 0 90px #fff7;
 }
