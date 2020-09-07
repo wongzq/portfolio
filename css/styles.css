@@ -10421,3 +10421,8 @@ header.masthead h1 {
   letter-spacing: 0.2rem;
   text-shadow: 0 0 10px #000;
 }
+
+.zq-logo {
+  max-width: 2rem;
+  margin-right: 1rem;
+}
