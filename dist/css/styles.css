@@ -10294,6 +10294,7 @@ header.masthead h1 {
   background: var(--primary);
   transition: opacity 0.25s ease;
   text-align: center;
+  padding: 1rem;
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category,
