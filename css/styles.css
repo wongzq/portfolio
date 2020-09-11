@@ -50,6 +50,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  font-family: "Merriweather sans";
 }
 
 html {
@@ -10428,4 +10429,11 @@ header.masthead h1 {
 .zq-logo {
   max-width: 2rem;
   margin-right: 1rem;
+}
+
+.about-me-text {
+  font-family: "Merriweather sans light";
+  font-size: 1rem;
+  line-height: 1.8rem;
+  text-align: justify;
 }
