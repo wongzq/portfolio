@@ -10437,3 +10437,7 @@ header.masthead h1 {
   line-height: 1.8rem;
   text-align: justify;
 }
+
+.portfolio-box * {
+  object-fit: contain;
+}
