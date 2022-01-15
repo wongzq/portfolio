@@ -43,7 +43,7 @@
     "prettier": "2.5.0",
     "pug": "3.0.2",
     "sass": "1.44.0",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "upath": "2.0.1"
   },
   "main": "index.js"
